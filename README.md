@@ -235,19 +235,7 @@ Through this project, I gained practical experience in:
 🚀 Modern Frontend Architecture
 ```
 
----
 
-## 📸 Screenshots
-
-Add screenshots of your application here:
-
-```markdown
-![Connecto Home Page](screenshots/home.png)
-
-![Destinations](screenshots/destinations.png)
-
-![Travel Guide](screenshots/travel-guide.png)
-```
 
 ---
 
